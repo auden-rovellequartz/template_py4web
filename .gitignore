@@ -1,0 +1,7 @@
+# git should ignore all files in the following directories:
+
+__pycache__/
+/databases/
+**.pyc
+
+
